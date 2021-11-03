@@ -2,7 +2,7 @@
 
 I'm Marcus, and welcome to my repo!
 
-I'm interested in all things reinforcement learning! Check out my latest project [muzero-cartpole](https://github.com/chiamp/muzero-cartpole)!
+I'm interested in all things reinforcement learning! Check out my latest projects [muzero-cartpole](https://github.com/chiamp/muzero-cartpole) and [fast-reinforcement-learning](https://github.com/chiamp/fast-reinforcement-learning)!
 
 <!--
 **chiamp/chiamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
