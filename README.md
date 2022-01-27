@@ -2,7 +2,11 @@
 
 I'm Marcus, and welcome to my repo!
 
-I'm interested in all things reinforcement learning! Check out my latest projects [fast-reinforcement-learning](https://github.com/chiamp/fast-reinforcement-learning), [muzero-cartpole](https://github.com/chiamp/muzero-cartpole) and [skill-expression-game-analysis](https://github.com/chiamp/skill-expression-game-analysis)!
+I'm interested in all things reinforcement learning! Check out my latest projects:
+* [sigmazero](https://github.com/chiamp/sigmazero)
+* [fast-reinforcement-learning](https://github.com/chiamp/fast-reinforcement-learning)
+* [muzero-cartpole](https://github.com/chiamp/muzero-cartpole)
+* [skill-expression-game-analysis](https://github.com/chiamp/skill-expression-game-analysis)!
 
 <!--
 **chiamp/chiamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
