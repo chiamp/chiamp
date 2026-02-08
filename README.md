@@ -3,6 +3,8 @@
 I'm Marcus, and welcome to my repo!
 
 I'm interested in all things reinforcement learning! Check out my latest projects:
+* [gemini-flight-optimizer](https://github.com/chiamp/gemini_flight_optimizer)
+* [jaxformer](https://github.com/chiamp/jaxformer)
 * [sigmazero](https://github.com/chiamp/sigmazero)
 * [fast-reinforcement-learning](https://github.com/chiamp/fast-reinforcement-learning)
 * [muzero-cartpole](https://github.com/chiamp/muzero-cartpole)
